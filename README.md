@@ -13,3 +13,4 @@ To build strong problem-solving fundamentals for internships and placements.
 
 ## Status
 🚧 In progress – learning step by step.
+✔ First program: Count digits using while loop.
