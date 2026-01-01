@@ -20,4 +20,6 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ Third program: reverse number logic using digit extraction
 ✔ Fourth program: Palindrome number using digit reversal
 ✔ Fifth program: Generalized Armstrong number check using digit count
-✔ sixth program: calculating Combination of choosing (nCr).
+✔ sixth program: calculating Combination of choosing (nCr) using functions.
+✔ seventh program: calculating permutation (nPr) using functions.
+✔ eighth program: 
