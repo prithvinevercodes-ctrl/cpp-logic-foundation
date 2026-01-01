@@ -16,3 +16,4 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ First program: Count digits using while loop.
 ✔ second program: sum of digits using digit extraction logic
 ✔ Third program: reverse number logic using digit extraction
+✔ Palindrome number using digit reversal
