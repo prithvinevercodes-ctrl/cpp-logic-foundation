@@ -6,6 +6,8 @@ This repository documents my journey of strengthening C++ fundamentals.
 - Loops (for, while, do-while)
 - Conditional statements
 - Digit-based problems
+- patterns printing
+- functions
 - Logic building
 
 ## Goal
