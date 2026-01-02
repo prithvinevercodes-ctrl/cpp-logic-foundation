@@ -26,3 +26,7 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ seventh program: calculating permutation (nPr) using functions.
 ✔ eighth program: Pascal training for n numbers with proper spacing using multiple Functions 
 ✔ ninth program: Swapping Digits , by using and not using extra variable.
+  Tenth program : Sum upto N number using recusion
+  eleventh program: Factorial of number using recursion.
+  tweleth program: making power(a,b) to find a^b using recurn
+  
