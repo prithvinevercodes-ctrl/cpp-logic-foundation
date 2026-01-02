@@ -7,7 +7,8 @@ This repository documents my journey of strengthening C++ fundamentals.
 - Conditional statements
 - Digit-based problems
 - patterns printing
-- functions
+- function
+- pointers 
 - Logic building
 
 ## Goal
