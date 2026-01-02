@@ -23,3 +23,4 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ sixth program: calculating Combination of choosing (nCr) using functions.
 ✔ seventh program: calculating permutation (nPr) using functions.
 ✔ eighth program: Pascal training for n numbers with proper spacing using multiple Functions 
+✔ ninth program: Swapping Digits , by using and not using extra variable.
