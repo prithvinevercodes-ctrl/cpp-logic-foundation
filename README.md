@@ -8,7 +8,8 @@ This repository documents my journey of strengthening C++ fundamentals.
 - Digit-based problems
 - patterns printing
 - function
-- pointers 
+- pointers
+- Recursions
 - Logic building
 
 ## Goal
