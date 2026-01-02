@@ -22,4 +22,4 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ Fifth program: Generalized Armstrong number check using digit count
 ✔ sixth program: calculating Combination of choosing (nCr) using functions.
 ✔ seventh program: calculating permutation (nPr) using functions.
-✔ eighth program: 
+✔ eighth program: Pascal training for n numbers with proper spacing using multiple Functions 
