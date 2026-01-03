@@ -10,6 +10,7 @@ This repository documents my journey of strengthening C++ fundamentals.
 - function
 - pointers
 - Recursions
+- Arrays 1-D
 - Logic building
 
 ## Goal
@@ -26,7 +27,8 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ seventh program: calculating permutation (nPr) using functions.
 ✔ eighth program: Pascal training for n numbers with proper spacing using multiple Functions 
 ✔ ninth program: Swapping Digits , by using and not using extra variable.
-  Tenth program : Sum upto N number using recusion
-  eleventh program: Factorial of number using recursion.
-  tweleth program: making power(a,b) to find a^b using recurn
-  
+✔ Tenth program : Sum upto N number using recusion
+✔  eleventh program: Factorial of number using recursion.
+✔  tweleth program: making power(a,b) to find a^b using recursion 
+✔  thirteen program:User defines the size and elements of array than calculate and return the SUM of elements 
+✔  fourteen program: User defines the size and elements of array than calculate and return the PRODUCT of elements.
