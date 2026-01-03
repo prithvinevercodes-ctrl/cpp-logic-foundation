@@ -1,6 +1,6 @@
 # C++ Logic Foundation
 
-This repository documents my journey of strengthening C++ fundamentals.
+This repository documents my journey of strengthening C++ fundamentals and logic.
 
 ## Focus Areas
 - Loops (for, while, do-while)
@@ -29,6 +29,7 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔ ninth program: Swapping Digits , by using and not using extra variable.
 ✔ Tenth program : Sum upto N number using recusion
 ✔  eleventh program: Factorial of number using recursion.
-✔  tweleth program: making power(a,b) to find a^b using recursion 
-✔  thirteen program:User defines the size and elements of array than calculate and return the SUM of elements 
-✔  fourteen program: User defines the size and elements of array than calculate and return the PRODUCT of elements.
+✔  tweleth program: made function power(a,b) to find a^b using recursion 
+✔  thirteen program: Taking User defines the size and elements of array than calculate and return the SUM of elements 
+✔  fourteen program: Taking User defines the size and elements of array than calculate and return the PRODUCT of elements.
+✔ Fifteenth program: Taking User defined size and elements to return the maximum of all elements.
