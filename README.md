@@ -33,3 +33,4 @@ To build strong problem-solving fundamentals for internships and placements.
 ✔  thirteen program: Taking User defines the size and elements of array than calculate and return the SUM of elements 
 ✔  fourteen program: Taking User defines the size and elements of array than calculate and return the PRODUCT of elements.
 ✔ Fifteenth program: Taking User defined size and elements to return the maximum of all elements.
+✔ Sixteen Program: create an Array that shows squares of all natural numbers upto N
